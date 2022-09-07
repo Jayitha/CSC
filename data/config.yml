@@ -1,0 +1,4 @@
+dataset: ANTI
+dimensionality: 4
+cardinality: 100000
+epsilon: 0.05
