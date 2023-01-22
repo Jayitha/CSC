@@ -1,0 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Competitive Skyline Cliques
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Jayitha
+    family-names: Cherapanamjeri
+    email: jayitha.c@research.iiit.ac.in
+    affiliation: 'DSAC, IIIT Hyderabad'
+repository-code: 'https://github.com/Jayitha/CSC'
